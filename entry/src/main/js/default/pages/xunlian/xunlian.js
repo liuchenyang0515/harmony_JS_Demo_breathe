@@ -4,7 +4,8 @@ let receivePickerValue2 = null;
 let timer1 = null;
 export default {
     data: {
-        seconds: 0
+        seconds: 0,
+        isShow: true
     },
     clickAction() {
         router.replace({
@@ -16,6 +17,7 @@ export default {
         if (this.seconds == 0) { // 字符串判断0不能直接取反，转number不如直接==判断
             clearInterval(timer1);
             timer1 = null;
+            this.isShow = false;
         }
     },
     onInit() {
