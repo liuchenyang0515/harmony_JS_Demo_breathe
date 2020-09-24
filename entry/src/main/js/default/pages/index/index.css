@@ -1,18 +1,43 @@
-.container {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 454px;
-  height: 454px;
+.container1 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 454px;
+    height: 454px;
+}
+.container2 {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 454px;
+    height: 250px;
+}
+.pv1 {
+    width: 30px;
+    height: 250px;
+}
+.pv2 {
+    width: 80px;
+    height: 250px;
+}
+.txt {
+    text-align: center;
+    width: 50px;
+    height: 36px;
 }
 .title {
-  font-size: 30px;
-  text-align: center;
-  width: 200px;
-  height: 100px;
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}
+.img {
+    width: 208px;
+    height: 208px;
+    margin: 0 15px;
 }
 .btn {
-  width:200px;
-  height:50px;
-
+    width: 200px;
+    height: 50px;
 }
