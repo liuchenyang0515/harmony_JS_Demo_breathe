@@ -10,6 +10,12 @@ export default {
       uri:"pages/xunlian/xunlian"
     })
   },
+  changeAction1(pv) {
+    console.log("左边的选中项:" + pv.newValue);
+  },
+  changeAction2(pv) {
+    console.log(`右边的选中项:${pv.newValue}`); // 说明ES6也是支持的
+  },
   onInit() {
     console.log("主页面的onInit()被调用");
   },

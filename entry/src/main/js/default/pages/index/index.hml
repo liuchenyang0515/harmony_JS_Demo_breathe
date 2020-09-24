@@ -1,9 +1,10 @@
 <div class="container1">
   <div class="container2">
-    <picker-view class="pv1" range="{{picker1range}}"></picker-view>
+<!-- selected从0开始 -->
+    <picker-view class="pv1" range="{{picker1range}}" selected="1" onchange="changeAction1"></picker-view>
     <text class="txt">分</text>
     <image src="common/hongmeng.png" class="img"></image>
-    <picker-view class="pv2" range="{{picker2range}}"></picker-view>
+    <picker-view class="pv2" range="{{picker2range}}" selected="1" onchange="changeAction2"></picker-view>
   </div>
   <input type="button" value="点我" class="btn" onclick="clickAction"></input>
 </div>
