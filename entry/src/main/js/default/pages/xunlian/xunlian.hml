@@ -1,6 +1,6 @@
 <div class="container">
     <text class="title">
-        总共需要坚持{{seconds}}秒
+        再需要坚持{{seconds}}秒
     </text>
     <input type="button" value="点击重新开始" class="btn" onclick="clickAction"></input>
 </div>
