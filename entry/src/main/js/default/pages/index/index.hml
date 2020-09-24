@@ -1,6 +1,6 @@
 <div class="container1">
   <div class="container2">
-<!-- selected从0开始 -->
+    <!-- selected从0开始 -->
     <picker-view class="pv1" range="{{picker1range}}" selected="1" onchange="changeAction1"></picker-view>
     <text class="txt">分</text>
     <image src="common/hongmeng.png" class="img"></image>
