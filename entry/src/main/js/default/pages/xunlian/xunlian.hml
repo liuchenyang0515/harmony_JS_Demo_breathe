@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        训练页面
+    </text>
+    <input type="button" value="返回" class="btn" onclick="clickAction"></input>
+</div>

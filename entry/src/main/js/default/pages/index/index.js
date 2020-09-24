@@ -1,8 +1,12 @@
+import router from '@system.router';
+
 export default {
   data: {
     title: 'World'
   },
   clickAction() {
-    console.log("我被点击了")
+    router.replace({
+      uri:"pages/xunlian/xunlian"
+    })
   }
 }
