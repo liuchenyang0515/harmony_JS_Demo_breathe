@@ -6,5 +6,5 @@
     <image src="common/hongmeng.png" class="img"></image>
     <picker-view class="pv2" range="{{picker2range}}" selected="1" onchange="changeAction2"></picker-view>
   </div>
-  <input type="button" value="点我" class="btn" onclick="clickAction"></input>
+  <input type="button" value="点击开始" class="btn" onclick="clickAction"></input>
 </div>
