@@ -8,6 +8,9 @@ export default {
         isShow: true
     },
     clickAction() {
+        // 点击重新跳转到主页面时清除定时器
+        clearInterval(timer1);
+        timer1 = null;
         router.replace({
             uri:'pages/index/index' // 所有页面的uri都需要在config.json中定义
         });
