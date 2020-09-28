@@ -4,7 +4,10 @@
 
 第一个鸿蒙app----华为轻量级运动手表
 [b站学习视频](https://www.bilibili.com/video/BV1hv411179b)
-
+运行图如下：
+<br>
+![在这里插入图片描述](https://cdn.jsdelivr.net/gh/liuchenyang0515/harmony_JS_Demo_breathe@1.1/read_png/success_result.gif)
+<br>
 [我的代码仓库](https://github.com/liuchenyang0515/harmony_JS_Demo_breathe)
 个人手敲代码，视频每一个章节的我都对应一个分支
 视频选集 | 代码分支
