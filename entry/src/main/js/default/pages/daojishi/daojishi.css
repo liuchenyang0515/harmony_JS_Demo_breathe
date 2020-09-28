@@ -8,7 +8,12 @@
 .txt {
     font-size: 38px;
     text-align: center;
-    width: 484px;
+    width: 454px;
     height: 50px;
     margin-top: 10px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
 }

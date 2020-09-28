@@ -1,11 +1,12 @@
 <div class="container">
-    <text class="title">
+    <image class="img" src="{{imgSrc}}" />
+    <text class="txt">
         请保持静止
     </text>
-    <text class="title">
-        3s后跟随训练指引
+    <text class="txt">
+        {{seconds}}s后跟随训练指引
     </text>
-    <text class="title">
+    <text class="txt">
         进行吸气和呼气
     </text>
 </div>
