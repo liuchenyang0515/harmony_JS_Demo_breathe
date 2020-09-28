@@ -67,8 +67,8 @@ export default {
         console.log("xunlian页面的onInit()被调用");
         console.log(`接收到左边picker的值为：${this.data1}`);
         console.log(`接收到右边picker的值为：${this.data2}`);
-        receivePickerValue1 = this.data1;
-        receivePickerValue2 = this.data2;
+        receivePickerValue1 = this.key1;
+        receivePickerValue2 = this.key2;
         this.seconds = receivePickerValue1 * 60;
         switch (receivePickerValue2) {
             case "较慢":
