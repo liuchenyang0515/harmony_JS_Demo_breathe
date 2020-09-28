@@ -10,7 +10,7 @@ export default {
   },
   clickAction() {
     router.replace({
-      uri: "pages/xunlian/xunlian",
+      uri: "pages/daojishi/daojishi",
       params: { // 传递到目标页面的参数
         "data1": pickerValue1,
         "data2": pickerValue2
