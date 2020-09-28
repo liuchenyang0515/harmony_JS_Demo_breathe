@@ -2,7 +2,7 @@
 <!-- 这里if和show和vue里面一样，show即使为false，占据的空间仍然存在，if为false占据的空间就会消失-->
 <!--  使用data里面的变量都需要插值表达式{{}}-->
     <text class="txt1">
-        {{breathe}}
+        {{breathe}}({{percent}}%)
     </text>
     <text class="txt2" show="{{isShow}}">
         再需要坚持{{seconds}}秒
