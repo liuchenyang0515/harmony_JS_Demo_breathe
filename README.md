@@ -1,7 +1,7 @@
 ![在这里插入图片描述](https://cdn.jsdelivr.net/gh/liuchenyang0515/harmony_JS_Demo_breathe@1/read_png/p1.png)
 > 没有能够熄灭满天星光
 > 每一位开发者，都是华为要汇聚的星星之火
-https://img-blog.csdnimg.cn/20200928185055367.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0MTE1ODk5,size_16,color_FFFFFF,t_70#pic_center
+
 第一个鸿蒙app----华为轻量级运动手表
 [b站学习视频](https://www.bilibili.com/video/BV1hv411179b)
 
