@@ -1,4 +1,5 @@
 <div class="container">
+    <img class="img" src="/common/hongmeng.png" style="animation-duration:{{duration}};animation-iteration-count:{{count}}"></img>
 <!-- 这里if和show和vue里面一样，show即使为false，占据的空间仍然存在，if为false占据的空间就会消失-->
 <!--  使用data里面的变量都需要插值表达式{{}}-->
     <text class="txt1">

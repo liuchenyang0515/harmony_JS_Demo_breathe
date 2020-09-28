@@ -16,7 +16,9 @@ export default {
         seconds: 0,
         isShow: true,
         breathe: "吸气",
-        percent: "0"
+        percent: "0",
+        duration: "",
+        count: ""
     },
     clickAction() {
         // 点击重新跳转到主页面时清除定时器
@@ -80,6 +82,8 @@ export default {
             break;
         }
         sumCount = this.seconds / picker2Seconds;
+        this.duration = picker2Seconds + "s";
+        this.count = (this.seconds / picker2Seconds).toString();
     },
     onReady() {
         console.log("xunlian页面的onReady()被调用");
