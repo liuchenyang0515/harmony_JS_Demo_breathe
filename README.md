@@ -1,3 +1,5 @@
+**项目导入说明**：因为.gitignore忽略了local.properties，导入别人的项目会出错，这个文件是sdk和node的路径，改为你自己的本地路径即可，
+最简单的方法就是新建一个空项目，把空项目的local.properties复制粘贴到你导入的项目的根目录即可。<br>
 ![在这里插入图片描述](https://cdn.jsdelivr.net/gh/liuchenyang0515/harmony_JS_Demo_breathe@1/read_png/p1.png)
 > 没有人能够熄灭满天星光<br>
 > 每一位开发者，都是华为要汇聚的星星之火
@@ -10,6 +12,7 @@
 <br>
 [我的代码仓库](https://github.com/liuchenyang0515/harmony_JS_Demo_breathe)
 个人手敲代码，视频每一个章节的我都对应一个分支
+
 视频选集 | 代码分支
 ----- | -----
 p4 | step1
