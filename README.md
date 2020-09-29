@@ -1,8 +1,8 @@
 ![在这里插入图片描述](https://cdn.jsdelivr.net/gh/liuchenyang0515/harmony_JS_Demo_breathe@1/read_png/p1.png)
-> 没有能够熄灭满天星光
+> 没有人能够熄灭满天星光<br>
 > 每一位开发者，都是华为要汇聚的星星之火
 
-第一个鸿蒙app----华为轻量级运动手表
+第一个鸿蒙app----呼吸计时训练（基于华为轻量级运动手表）
 [b站学习视频](https://www.bilibili.com/video/BV1hv411179b)
 运行图如下：
 <br>
